@@ -5,9 +5,9 @@
 The purpose of this project is to the knowledge of Python and Unsupervised machine learning to predict if cryptocurriences are affected by 24-hour or 7-day price changes.
 
 ## Technologies
-Python
-Sklearn
-Jupyter notebook
+Python, 
+Sklearn, 
+Jupyter notebook, 
 Pandas
 
 
